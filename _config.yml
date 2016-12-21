@@ -1,0 +1,21 @@
+# Site settings
+title: Jade's Coding Adventure
+header-img: img/home-bg.png
+email: caileeadamson@gmail.com
+copyright_name: tropicalapp
+description: > # this means to ignore newlines until "baseurl:"
+  how a girl became a coder
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  tropicalapp
+learn_profile: tropicalapp
+email_username: caileeadamson@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
