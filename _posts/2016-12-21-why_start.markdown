@@ -1,20 +1,15 @@
 ---
 layout: post
-title:  "Why Start?"
-date:   2016-12-20 22:56:51 -0500
+title:      "Why Start?"
+date:       2016-12-20 22:56:51 -0500
+permalink:  why_start
 ---
 
 
 Dear World, 
 
-I started my coding journey in early 2016. I thought it would be awesome if I learned how to make iOS mobile applications and convinced myself I could do it!
-
-Well, I started to learn Swift. I downloaded Xcode, I watched Lynda videos, and talked to a couple guys who made applications for a living. Four months later, I was no futher along the path than when I had started. None of it made sense. Arrays, strings, command line- it was nonsensical and too technical!
-
-After feeling defeated and slightly insecure about my intelligence and motivation, I decided to try a different approach. What if I didn't have to build the world's best iOS application this year? What if I could just start off learning any coding lanuage at all and see where that would take me? 
-
-I bought a book on HTML/CSS, signed up for CodeAcadmey (free courses) and realized that I was trying to bite more than I could chew initially. Starting off with these very basic building blocks is what I needed to do. Teaching myself how to code has been an adventure and a challange. I think I needed to be challenged in this way. I started coding so I could create things and contribute to the world. Prior to this I felt lost and yearned for more than I had, yearned to do more than what was being asked of me. I look forward to what is still to come!
-
+testing testingtestingtestingvvtestingvvvvtestingtestingtestingtestingtestingtestingtestingtestingtestingtestingtesting testingtestingtestingtestingtestingtestingtestingtesting
+testingtestingtestingtestingtestingtestingtestingtestingtestinghello worled testing hello worled testinghello worled testinghello worled testinghello worled testing
 
 
 
